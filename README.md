@@ -1,2 +1,5 @@
-# latex
-Singularity recipe for LaTeX.
+
+
+# Singularity recipe for LaTeX
+
+https://singularity-hub.org/collections/4518
